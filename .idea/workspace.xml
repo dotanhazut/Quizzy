@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec48216e-4f7e-4360-ac88-9d91312ecc88" name="Changes" comment="init commit by dotan" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerConfigs">
+    <option name="configs">
+      <option value="$PROJECT_DIR$/moodle/h5p/h5plib/v127/joubel/core/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/aws-sdk/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/openspout/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/markdown/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/ltiprovider/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/admin/tool/mfa/factor/totp/extlib/OTPHP/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/guzzlehttp/kevinrob/guzzlecache/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/slim/slim/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/jmespath/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/phpspreadsheet/phpspreadsheet/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/maxmind/MaxMind/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/webauthn/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/psr/http-client/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/nikic/fast-route/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/zipstream/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/lti1p3/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/minify/matthiasmullie-pathconverter/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/guzzlehttp/guzzle/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/phpmailer/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/h5p/h5plib/v127/joubel/editor/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/plist/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/rtlcss/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/scssphp/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/tcpdf/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/php-di/invoker/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/minify/matthiasmullie-minify/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/phpspreadsheet/markbaker/matrix/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/mustache/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/phpspreadsheet/markbaker/complex/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/guzzlehttp/promises/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/geopattern-php/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/admin/tool/mfa/factor/totp/extlib/ParagonIE/ConstantTime/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/php-di/php-di/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/google/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/psr/log/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/psr/clock/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/guzzlehttp/psr7/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/psr/event-dispatcher/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/php-jwt/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/html2text/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/psr/http-factory/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/psr/container/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/ralouphie/getallheaders/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/symfony/deprecation-contracts/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/php-css-parser/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/psr/http-server-handler/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/phpxmlrpc/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/simplepie/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/laravel/serializable-closure/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/psr/http-message/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/psr/simple-cache/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/maxmind/GeoIp2/composer.json" />
+      <option value="$PROJECT_DIR$/moodle/lib/psr/http-server-middleware/composer.json" />
+    </option>
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/moodle/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/moodle" value="MOODLE_402_STABLE" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dotanhazut&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dotanhazut/Quizzy.git&quot;,
+    &quot;accountId&quot;: &quot;0bd6c9be-259c-4274-9257-c08a681a3aca&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2rcJ8qq7o3QoaViRwxgvy7u121z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Docker.docker-compose.yml.moodle: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.docker-compose.yml: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.docker-compuse.yml: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsDialog.application.dockerConsole&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PhpstormProjects\Quizzy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.moodle: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="moodle" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.moodle: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PS-243.22562.233" />
+        <option value="bundled-php-predefined-a98d8de5180a-7980c7aaca61-com.jetbrains.php.sharedIndexes-PS-243.22562.233" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec48216e-4f7e-4360-ac88-9d91312ecc88" name="Changes" comment="" />
+      <created>1736852277431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736852277431</updated>
+      <workItem from="1736852278305" duration="9904000" />
+      <workItem from="1736864216723" duration="1550000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit by dotan">
+      <option name="closed" value="true" />
+      <created>1736862768396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736862768396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit by dotan" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit by dotan" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
