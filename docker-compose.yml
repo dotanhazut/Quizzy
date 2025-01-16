@@ -1,6 +1,6 @@
 services:
   moodle:
-    image: moodlehq/moodle-php-apache:8.0
+    image: moodlehq/moodle-php-apache:8.2
     container_name: moodle
     ports:
       - "8000:80"
